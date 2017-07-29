@@ -1,0 +1,13 @@
+export const LOGIN_VIA_SMS = 'LOGIN_VIA_SMS';
+export const LOGIN_VIA_TOUCHID = 'LOGIN_VIA_TOUCHID';
+export const LOGIN_SUCCESSFUL = 'LOGIN_SUCCESSFUL';
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+export const INPUT_CHANGED = 'INPUT_CHANGED';
+export const LOADING = 'LOADING';
+export const DONE = 'DONE';
+export const CLEAR_STATE = 'CLEAR_STATE';
+export const VALID_OTP = 'VALID_OTP';
+
+
+export const PROFILE_FETCHED = 'PROFILE_FETCHED';
+export const DEPENDANTS_FETCHED = 'DEPENDANTS_FETCHED';
